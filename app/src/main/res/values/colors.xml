@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_purple"> #300030</color>
+    <color name="purple"> #480048 </color>
+    <color name="light_orange"> #f49859 </color>
+    <color name="Background"> #f1bbbb </color>
+    <color name="vista"> #89A6FB </color>
+    <color name="plum"> #DA92DD </color>
+    <color name="thulian"> #DE639A </color>
+    <color name="royal"> #856FC3 </color>
+</resources>
